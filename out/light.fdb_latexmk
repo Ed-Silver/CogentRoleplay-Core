@@ -1,24 +1,24 @@
 # Fdb version 4
-["bibtex out/light"] 1711153976.30244 "out/light.aux" "out/light.bbl" "out/light" 1711153981.35611 0
+["bibtex out/light"] 1711156755.72505 "out/light.aux" "out/light.bbl" "out/light" 1711156760.91923 0
   "d:/texlive/2024/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1711121314 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "out/light-blx.bib" 1711153980 342 d865dd705669fe2690af04cd565872c3 "xelatex"
-  "out/light.aux" 1711153980 8261 af193feab3a59f3be30d309e2804324a "xelatex"
+  "out/light-blx.bib" 1711156759 342 d865dd705669fe2690af04cd565872c3 "xelatex"
+  "out/light.aux" 1711156759 8326 5a8129663f49ad2340e966631236b300 "xelatex"
   (generated)
   "out/light.bbl"
   "out/light.blg"
   (rewritten before read)
-["makeindex out/light.idx"] 1711153707.86714 "out/light.idx" "out/light.ind" "out/light" 1711153981.35557 0
-  "out/light.idx" 1711153978 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["makeindex out/light.idx"] 1711156606.16167 "out/light.idx" "out/light.ind" "out/light" 1711156760.91872 0
+  "out/light.idx" 1711156758 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
   "out/light.ilg"
   "out/light.ind"
   (rewritten before read)
-["xdvipdfmx"] 1711153981.11194 "out/light.xdv" "out/light.pdf" "out/light" 1711153981.39364 0
-  "out/light.xdv" 1711153980 492124 a5c0e8cdfa2621addb8c551be96852b1 "xelatex"
+["xdvipdfmx"] 1711156760.68088 "out/light.xdv" "out/light.pdf" "out/light" 1711156760.96226 0
+  "out/light.xdv" 1711156759 491296 03547b87d2746affea090266171923a0 "xelatex"
   (generated)
   "out/light.pdf"
   (rewritten before read)
-["xelatex"] 1711153976.45116 "light.tex" "out/light.xdv" "light" 1711153981.35677 0
+["xelatex"] 1711156755.87358 "light.tex" "out/light.xdv" "light" 1711156760.91996 0
   "context.tex" 1711125710 500 6265548af56b804cb96931a36f4e9036 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1711114869 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1711114659 1004 54797486969f23fa377b128694d548df ""
@@ -188,6 +188,7 @@
   "d:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1711121024 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "d:/texlive/2024/texmf-dist/tex/latex/everypage/everypage.sty" 1711121614 2337 781b78f572435553b0c730d036a6e4ee ""
   "d:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1711114698 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
+  "d:/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1711121675 6749 16d2656a1984957e674b149555f1ea1d ""
   "d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1711119810 163194 e97577b0d79d363e11289d4e27baa8a4 ""
   "d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1711119810 549 c4adac819276241fea8eb79c5ab7b99e ""
   "d:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty" 1711119810 3484 ff877041166391bc5ca8a1e45614784e ""
@@ -280,16 +281,17 @@
   "d:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1711114635 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "d:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1711120696 9062099 ba7d11eb3d2e4e5ec09e76d322ccf25e ""
   "d:/texlive/2024/texmf.cnf" 1711114869 713 e69b156964470283e0530f5060668171 ""
+  "images/placeholder.jpg" 1711119710 11798 0096bedf7267f1d72f8d3c54fd0c013d ""
   "light.tex" 1711127570 578 ecf97363262e4cc798c00047b3bfc35d ""
-  "main.tex" 1711152809 1907 eeee9c81f33aa563a1b947849ee62f26 ""
-  "out/light.aux" 1711153980 8261 af193feab3a59f3be30d309e2804324a "xelatex"
-  "out/light.bbl" 1711153976 512 66cdc237e4f174d49cccf2a5e2afad50 "bibtex out/light"
-  "out/light.ind" 1711153707 0 d41d8cd98f00b204e9800998ecf8427e "makeindex out/light.idx"
-  "out/light.run.xml" 1711153980 2535 75bd002a72f3ddb8aaafba3d0e65dfbf "xelatex"
-  "out/light.toc" 1711153980 1994 91437eea8476aa32322072fd4e5d7676 "xelatex"
-  "sections/character_creation/attributes.tex" 1711152034 4099 e93dc66d6e71166837c36746bbf591a5 ""
-  "sections/character_creation/core_skills.tex" 1711153970 14990 28aa5e5970e9442b9445e0e2df54b31c ""
-  "sections/character_creation/identity.tex" 1711151302 5316 f1d27a6fcb131b107755838266c54f0b ""
+  "main.tex" 1711156587 1926 93902fb78949d8db60d632bf260e0338 ""
+  "out/light.aux" 1711156759 8326 5a8129663f49ad2340e966631236b300 "xelatex"
+  "out/light.bbl" 1711156755 512 66cdc237e4f174d49cccf2a5e2afad50 "bibtex out/light"
+  "out/light.ind" 1711156606 0 d41d8cd98f00b204e9800998ecf8427e "makeindex out/light.idx"
+  "out/light.run.xml" 1711156759 2535 75bd002a72f3ddb8aaafba3d0e65dfbf "xelatex"
+  "out/light.toc" 1711156759 1912 ffa70f72be3a3e23f7fec638db2ccc79 "xelatex"
+  "sections/character_creation/attributes.tex" 1711156750 4065 6a3ae853cec48bc3f2de4d329cd71255 ""
+  "sections/character_creation/core_skills.tex" 1711156750 15237 dec36f77a1baa0e6496cc72bed4de71a ""
+  "sections/character_creation/identity.tex" 1711155655 5402 867d4c726d287c011b0e3d755f30c35a ""
   "sections/introduction/overview.tex" 1711127522 2132 52447504e47c027f86a8666bc63deece ""
   "sections/introduction/roleplay.tex" 1711128595 4503 f7c99b0a4877c11e2842e321c88cb042 ""
   "sections/introduction/welcome.tex" 1711151107 3545 16d12aa05e9e175b20d9476ef7bab644 ""
