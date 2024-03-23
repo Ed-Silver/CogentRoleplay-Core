@@ -27,5 +27,35 @@
         "undeath",
         "wakizashi",
         "zweihänder"
+    ],
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    //"emeraldwalk.runonsave": {
+    //    "commands": [
+    //        {
+    //            "match": "\\.md$",
+    //            "isAsync": true,
+    //            "cmd": "pandoc -f markdown -s -o \"${file}.pdf\" \"${file}\""
+    //        }
+    //    ]
+    //}
+    "latex-workshop.latex.recipe.default": "latexmk (xelatex)",
+    "latex-workshop.latex.tools": [
+        {
+            "name": "xelatexmk",
+            "command": "latexmk",
+            "args": [
+                "-xelatex",
+                "-outdir=out",
+                "light.tex"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk (xelatex)",
+            "tools": [
+                "xelatexmk"
+            ]
+        }
     ]
 }

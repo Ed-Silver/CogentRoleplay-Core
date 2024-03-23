@@ -1,0 +1,39 @@
+%----------------------------------------------------------------------------------------
+%   SOLVE CONFLICTS
+%----------------------------------------------------------------------------------------
+\PassOptionsToPackage{table}{xcolor}
+
+%----------------------------------------------------------------------------------------
+%   COLORS
+%----------------------------------------------------------------------------------------
+\usepackage[table]{xcolor} % Required for specifying colors by name
+\usepackage{pagecolor} % dark theme
+
+%----------------------------------------------------------------------------------------
+%   MAKE BOLD STAND OUT
+%----------------------------------------------------------------------------------------
+\let\oldtextbf\textbf
+
+%----------------------------------------------------------------------------------------
+%   LIGHT THEME
+%----------------------------------------------------------------------------------------
+\newcommand{\togglethemelight}{
+%----------------------------------------------------------------------------------------
+\definecolor{accent}{HTML}{424BC6}
+%\colorlet{accent}{orange}
+\colorlet{fg}{black}
+\colorlet{fgalt}{darkgray}
+\colorlet{fgacc}{white}
+\colorlet{bg}{white}
+\colorlet{bgalt}{lightgray}
+\definecolor{bgacc}{HTML}{424BC6}
+%\colorlet{bgacc}{orange}
+\colorlet{border}{black}
+\colorlet{borderalt}{darkgray}
+\definecolor{borderacc}{HTML}{424BC6}
+%\colorlet{borderacc}{orange}
+%----------------------------------------------------------------------------------------
+\pagecolor{bg}
+\color{fgalt}
+\renewcommand{\textbf}[1]{\oldtextbf{\color{fg}##1}}
+}
