@@ -577,6 +577,8 @@ INPUT d:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.def
 INPUT d:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT d:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
 INPUT d:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT out/light.aux
 INPUT out/light.aux
 INPUT out/light.aux
@@ -659,9 +661,15 @@ INPUT ./sections/character_creation/attributes.tex
 INPUT ./sections/character_creation/attributes.tex
 INPUT ./sections/character_creation/attributes.tex
 INPUT sections/character_creation/attributes.tex
+INPUT ./images/placeholder.jpg
+INPUT ./images/placeholder.jpg
 INPUT ./sections/character_creation/core_skills.tex
 INPUT ./sections/character_creation/core_skills.tex
 INPUT sections/character_creation/core_skills.tex
+INPUT ./images/placeholder.jpg
+INPUT ./images/placeholder.jpg
+INPUT ./images/placeholder.jpg
+INPUT ./images/placeholder.jpg
 INPUT out/light.aux
 INPUT out/light.run.xml
 OUTPUT out/light.run.xml

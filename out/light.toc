@@ -16,11 +16,10 @@
 \contentsline {subsection}{\numberline {4.1.3}Beliefs / Morality}{11}{subsection.4.1.3}%
 \contentsline {subsection}{\numberline {4.1.4}Goals / Aspirations}{11}{subsection.4.1.4}%
 \contentsline {chapter}{\numberline {5}Attributes}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Attributes and Skills}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Attributes}{12}{section.5.2}%
+\contentsline {section}{\numberline {5.1}Attributes}{12}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Core Skills}{14}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Core Skills in Detail}{15}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Strength-Based Skills}{15}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Reflex-Based Skills}{16}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.2}Reflex-Based Skills}{17}{subsection.6.1.2}%
 \contentsline {subsection}{\numberline {6.1.3}Intelligence-Based Skills}{18}{subsection.6.1.3}%
 \contentsfinish 

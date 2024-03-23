@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.22)  23 MAR 2024 00:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.22)  23 MAR 2024 01:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1199,7 +1199,14 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (d:/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-))
+)) (d:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count497
+\float@exts=\toks56
+\float@box=\box111
+\@float@everytoks=\toks57
+\@floatcapt=\box112
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1207,92 +1214,92 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (out/light.aux)
 \openout1 = `light.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5.
  (d:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 4.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 4.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 4.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 4.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 4.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 4.
-LaTeX Font Info:    Redeclaring math accent \check on input line 4.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 4.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 4.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 4.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 5.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 5.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 5.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 5.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 5.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 5.
+LaTeX Font Info:    Redeclaring math accent \check on input line 5.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 5.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 5.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 5.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 5.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 4.
+(Font)              `operators' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 4.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 4.
+(Font)              `operators' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 4.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 4.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 4.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 4.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 4.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 4.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 4.
-LaTeX Info: Redefining \microtypecontext on input line 4.
-Package microtype Info: Applying patch `item' on input line 4.
-Package microtype Info: Applying patch `toc' on input line 4.
-Package microtype Info: Applying patch `eqnum' on input line 4.
-Package microtype Info: Applying patch `footnote' on input line 4.
-Package microtype Info: Applying patch `verbatim' on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 5.
+LaTeX Info: Redefining \microtypecontext on input line 5.
+Package microtype Info: Applying patch `item' on input line 5.
+Package microtype Info: Applying patch `toc' on input line 5.
+Package microtype Info: Applying patch `eqnum' on input line 5.
+Package microtype Info: Applying patch `footnote' on input line 5.
+Package microtype Info: Applying patch `verbatim' on input line 5.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1301,9 +1308,10 @@ Package microtype Info: No adjustment of kerning.
  (d:/texlive/2024/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Modern Roman (RS)
 )
-Package hyperref Info: Link coloring ON on input line 4.
-\c@lstlisting=\count497
+Package hyperref Info: Link coloring ON on input line 5.
+\c@lstlisting=\count498
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -1358,8 +1366,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'light.bbl' found.
  (out/light.bbl)
-Package biblatex Info: Reference section=0 on input line 4.
-Package biblatex Info: Reference segment=0 on input line 4.
+Package biblatex Info: Reference section=0 on input line 5.
+Package biblatex Info: Reference segment=0 on input line 5.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1392,57 +1400,57 @@ Package biblatex Info: Reference segment=0 on input line 4.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\pgf@layerbox@bg=\box111
-\pgf@layerboxsaved@bg=\box112
-\pgf@layerbox@fg=\box113
-\pgf@layerboxsaved@fg=\box114
+\pgf@layerbox@bg=\box113
+\pgf@layerboxsaved@bg=\box114
+\pgf@layerbox@fg=\box115
+\pgf@layerboxsaved@fg=\box116
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
-(Font)              scaled to size 10.36302pt on input line 6.
+(Font)              scaled to size 10.36302pt on input line 7.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Inconsolata-LGC' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
-(Font)              scaled to size 23.54633pt on input line 6.
+(Font)              scaled to size 23.54633pt on input line 7.
 
 
 LaTeX Font Warning: Font shape `TU/Inconsolata-LGC(0)/m/sc' undefined
-(Font)              using `TU/Inconsolata-LGC(0)/m/n' instead on input line 6.
+(Font)              using `TU/Inconsolata-LGC(0)/m/n' instead on input line 7.
 
 
 LaTeX Font Warning: Font shape `TU/Inconsolata-LGC(0)/b/sc' undefined
-(Font)              using `TU/Inconsolata-LGC(0)/b/n' instead on input line 6.
+(Font)              using `TU/Inconsolata-LGC(0)/b/n' instead on input line 7.
 
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/b/n' will be
-(Font)              scaled to size 23.54633pt on input line 6.
+(Font)              scaled to size 23.54633pt on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
  [][][][]\TU/Inconsolata-LGC(0)/b/n/24.88 Cogent Roleplay[]
  []
 
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
-(Font)              scaled to size 13.62808pt on input line 6.
+(Font)              scaled to size 13.62808pt on input line 7.
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/sc' will be
-(Font)              scaled to size 13.62808pt on input line 6.
+(Font)              scaled to size 13.62808pt on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
  []\TU/Inconsolata-LGC(0)/m/sc/14.4 Core Rulebook[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
  [][][]\TU/Inconsolata-LGC(0)/m/sc/14.4 Jazza and Shad Brooks, The Community
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
  []\TU/Inconsolata-LGC(0)/m/sc/14.4 March 23, 2024[]
  []
 
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/bx/n' in size <20.74> not available
-(Font)              Font shape `TU/Inconsolata-LGC(0)/b/n' tried instead on input line 6.
+(Font)              Font shape `TU/Inconsolata-LGC(0)/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/b/n' will be
-(Font)              scaled to size 19.62825pt on input line 6.
+(Font)              scaled to size 19.62825pt on input line 7.
 [1
 
 
@@ -1482,26 +1490,26 @@ LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/b/n' will be
 
 
 Package hyperref Warning: Option `backref' has already been used,
-(hyperref)                setting the option has no effect on input line 9.
+(hyperref)                setting the option has no effect on input line 10.
 
 
 Package hyperref Warning: Option `pagebackref' has already been used,
-(hyperref)                setting the option has no effect on input line 9.
+(hyperref)                setting the option has no effect on input line 10.
 
 
 Package hyperref Warning: Option `hyperindex' has already been used,
-(hyperref)                setting the option has no effect on input line 9.
+(hyperref)                setting the option has no effect on input line 10.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 9.
+(hyperref)                setting the option has no effect on input line 10.
 
-Package hyperref Info: Option `breaklinks' set `true' on input line 9.
+Package hyperref Info: Option `breaklinks' set `true' on input line 10.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 9.
+(hyperref)                setting the option has no effect on input line 10.
 
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 9.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 10.
 (out/light.toc
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
@@ -1587,11 +1595,6 @@ Overfull \hbox (22.97252pt too wide) in paragraph at lines 21--21
 [][][][][][][]  
  []
 
-
-Overfull \hbox (22.97252pt too wide) in paragraph at lines 22--22
-[][][][][][][]  
- []
-
 )
 \tf@toc=\write6
 \openout6 = `light.toc'.
@@ -1600,13 +1603,13 @@ Overfull \hbox (22.97252pt too wide) in paragraph at lines 22--22
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (d:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (d:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (d:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1615,7 +1618,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
-(Font)              scaled to size 45.427pt on input line 11.
+(Font)              scaled to size 45.427pt on input line 12.
  [3
 
 
@@ -1623,9 +1626,9 @@ LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
-(Font)              scaled to size 19.62825pt on input line 14.
+(Font)              scaled to size 19.62825pt on input line 15.
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/b/n' will be
-(Font)              scaled to size 22.7135pt on input line 14.
+(Font)              scaled to size 22.7135pt on input line 15.
 (./sections/introduction/welcome.tex
 LaTeX Font Info:    Font shape `TU/Inconsolata-LGC(0)/m/n' will be
 (Font)              scaled to size 11.35675pt on input line 1.
@@ -1653,11 +1656,19 @@ Chapter 4.
 
 ]) [11]
 Chapter 5.
-(./sections/character_creation/attributes.tex [12
+(./sections/character_creation/attributes.tex
+File: images/placeholder.jpg Graphic file (type bmp)
+<images/placeholder.jpg>
+ [12
 
 ]) [13]
 Chapter 6.
-(./sections/character_creation/core_skills.tex [14
+(./sections/character_creation/core_skills.tex
+File: images/placeholder.jpg Graphic file (type bmp)
+<images/placeholder.jpg>
+File: images/placeholder.jpg Graphic file (type bmp)
+<images/placeholder.jpg>
+ [14
 
 ] [15] [16] [17] [18])
 
@@ -1666,10 +1677,6 @@ See the caption package documentation for explanation.
 
 
 Package caption Warning: Unused \captionsetup[table] on input line 33.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: Unused \captionsetup[figure] on input line 42.
 See the caption package documentation for explanation.
 
 [19] (out/light.aux)
@@ -1686,12 +1693,12 @@ Package logreq Info: Writing requests to 'light.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 47650 strings out of 476759
- 1025248 string characters out of 5802728
- 2055083 words of memory out of 5000000
- 68822 multiletter control sequences out of 15000+600000
+ 47737 strings out of 476759
+ 1026892 string characters out of 5802728
+ 2056653 words of memory out of 5000000
+ 68902 multiletter control sequences out of 15000+600000
  563309 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  116i,14n,128p,1950b,3926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/light.xdv (19 pages, 492124 bytes).
+Output written on out/light.xdv (19 pages, 491296 bytes).
