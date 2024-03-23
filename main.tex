@@ -1,0 +1,65 @@
+\usepackage{lipsum}
+\usepackage{csquotes}
+
+\begin{document}
+
+\coverpage{\TITLE}{\SUBTITLE}{\AUTHOR}{\DATE}{\SUBJECT}
+
+\newpage
+\tableofcontents
+
+\part{Introduction}
+
+\newpage
+\chapter{Welcome to Cogent Roleplay} \label{ch:in_welcome}
+\input{sections/introduction/welcome}
+
+\newpage
+\chapter{An Introduction to Roleplaying}\label{ch:in_roleplay}
+\input{sections/introduction/roleplay}
+
+\newpage
+\chapter{A quick overview of Cogent}\label{ch:in_overview}
+\input{sections/introduction/overview}
+
+\part{Character Creation}
+
+\newpage
+\chapter{Identity} \label{ch:cc_identity}
+\input{sections/character_creation/identity}
+
+\newpage
+\chapter{Attributes} \label{ch:cc_attributes}
+\input{sections/character_creation/attributes}
+
+\newpage
+\chapter{Core Skills} \label{ch:cc_core_skills}
+\input{sections/character_creation/core_skills.tex}
+
+% =======================================================================================
+%                                   APPENDICES
+% =======================================================================================
+%\part{Appendices}
+%----------------------------------------------------------------------------------------
+%\newpage
+%\chapter{Vestibulum commodo} \label{ch:commodo}
+%\input{sections/appendices/consectetur}
+%----------------------------------------------------------------------------------------
+%\newpage
+%\chapter{Etiam facilisis} \label{ch:etiam}
+%\input{sections/appendices/adipiscing}
+%----------------------------------------------------------------------------------------
+%\newpage
+%\listoffigures
+%\listoftables
+%----------------------------------------------------------------------------------------
+%\newpage
+%\printbibliography[title = {Aliquam}]
+
+%\end{document}
+%\listoftables
+%----------------------------------------------------------------------------------------
+%\newpage
+%\printbibliography[title = {Aliquam}]
+
+\end{document}
