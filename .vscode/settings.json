@@ -63,5 +63,7 @@
     "latex-workshop.latex.clean.method": "glob",
     "latex-workshop.latex.outDir": "./out",
     "latex-workshop.latex.clean.fileTypes": ["*"],
-    "latex-workshop.latex.autoClean.run": "onFailed"
+    "latex-workshop.latex.autoClean.run": "onFailed",
+
+    "ltex.language":"en-AU"
 }
