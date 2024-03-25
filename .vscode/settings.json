@@ -58,5 +58,10 @@
                 "xelatexmk"
             ]
         }
-    ]
+    ],
+    "latex-workshop.latex.jobname": "rulebook",
+    "latex-workshop.latex.clean.method": "glob",
+    "latex-workshop.latex.outDir": "./out",
+    "latex-workshop.latex.clean.fileTypes": ["*"],
+    "latex-workshop.latex.autoClean.run": "onFailed"
 }
