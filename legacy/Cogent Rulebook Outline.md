@@ -23,7 +23,7 @@
 * **Combat**
   * Combat Fundamentals
   * Combat Actions and Timing
-  * Armor
+  * Armour
   * Weapon Modifiers
   * Fighting Groups
   * Melee vs Ranged
