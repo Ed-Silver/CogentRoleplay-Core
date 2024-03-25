@@ -22,6 +22,9 @@ To stop the compilation click of the TEX extension button and then click Termina
 
 Now before recompiling, you should delete the out directory. This is as sometimes a failed compilation leaves half-finished files in this folder that then cause any subsequent compiles to fail.
 
+### Missing packages
+If you are missing a package, open the program "TLShell TeX Live Manager" that will have been installed with LaTeX. Here you can search for packages, select them and then install them. VSCode will need to be restarted before LaTeX will find them.  
+
 ## Project structure
 All of the content files are found under sections. Each section (or part as LaTeX calls them) of the rulebook has a separate folder under this folder. Examples are introduction and character_creation. Within these sections each chapter has its own `.tex` file. It is within these files that the content of the pages lies. The only other important file is main.tex in the root directory. This file is responsible for collating all the sections and chapters. Within it you can see the links to the chapter `.tex` files. 
 
