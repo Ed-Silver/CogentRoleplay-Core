@@ -3,7 +3,7 @@
 ## Installing LaTeX and setting up VSCode
 [Follow this guide](https://blog.jakelee.co.uk/getting-latex-working-in-vscode-on-windows/) to install LaTeX and set it up for VSCode. 
 > [!IMPORTANT] 
-> Install the full scheme or the medium scheme instead of LaTeX only, otherwise you’ll have issues with missing packages. It is possible to install these packages using TLShell TeX Live Manager but it’s much easier during inital installation
+> Install the full scheme or the medium scheme instead of LaTeX only, otherwise you’ll have issues with missing packages. It is possible to install these packages using TLShell TeX Live Manager but it’s much easier during inital installation.
 
 ## Building the PDFs
 The PDF will build automatically upon saving, or alteratively you can click the green arrow next to the file ribbon:
