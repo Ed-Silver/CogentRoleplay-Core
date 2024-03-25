@@ -36,7 +36,7 @@ Within `main.tex` add a new block to link the chapter. This will look like:
 
 ```latex
 \newpage
-\chapter{This is a chapter title} \label{XX:this_is_a_chapter_title}
+\chapter{This is a chapter title} \label{ch:XX_this_is_a_chapter_title}
 \input{sections/part/this_is_the_file_path}
 ```
 Where `XX` is the chapter name abbreviated to two letters.
