@@ -46,6 +46,7 @@
             "args": [
                 "-xelatex",
                 "-outdir=out",
+                "-jobname=rulebook",
                 "light.tex"
             ]
         }

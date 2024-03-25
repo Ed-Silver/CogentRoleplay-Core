@@ -1,7 +1,7 @@
 # Writing in $\LaTeX$ for the Cogent Roleplay Rulebook
 
 ## Installing LaTeX and setting up VSCode
-[Follow this guide](https://blog.jakelee.co.uk/getting-LaTeX-working-in-vscode-on-windows/#:~:text=Search%20for%20%E2%80%9CLaTeX%20Workshop%E2%80%9D%20and,close%20and%20reopen%20it%20yourself) to install LaTeX and set it up for VSCode. 
+[Follow this guide](https://blog.jakelee.co.uk/getting-latex-working-in-vscode-on-windows/) to install LaTeX and set it up for VSCode. 
 > [!IMPORTANT] 
 > Install the full scheme or the medium scheme instead of LaTeX only, otherwise you’ll have issues with missing packages. It is possible to install these packages using TLShell TeX Live Manager but it’s much easier during inital installation
 
