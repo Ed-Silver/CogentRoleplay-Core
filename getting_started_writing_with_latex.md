@@ -20,7 +20,7 @@ To stop the compilation click of the TEX extension button and then click Termina
 ![Location of the TeX sidebar](images/latex-instructions-img2.png)
 ![Terminate button](images/latex-instructions-img3.png)
 
-Now before recompiling, you should delete the out directory. This is as sometimes a failed compilation leaves half-finished files in this folder that then cause any subsequent compiles to fail.
+Latex-Workshop should delete the ./out folder once you terminate the build. If it does not, before recompiling you should delete this directory. This is as sometimes a failed compilation leaves half-finished files in this folder that then cause any subsequent compiles to fail.
 
 ### Missing packages
 If you are missing a package, open the program "TLShell TeX Live Manager" that will have been installed with LaTeX. Here you can search for packages, select them and then install them. VSCode will need to be restarted before LaTeX will find them.  
