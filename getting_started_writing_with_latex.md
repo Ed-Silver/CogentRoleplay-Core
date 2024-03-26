@@ -23,16 +23,16 @@ To stop the compilation click of the TEX extension button and then click Termina
 Latex-Workshop should delete the ./out folder once you terminate the build. If it does not, before recompiling you should delete this directory. This is as sometimes a failed compilation leaves half-finished files in this folder that then cause any subsequent compiles to fail.
 
 ### Missing packages
-If you are missing a package, open the program "TLShell TeX Live Manager" that will have been installed with LaTeX. Here you can search for packages, select them and then install them. VSCode will need to be restarted before LaTeX will find them.  
+If you are missing a package, open the program "TLShell TeX Live Manager" that will have been installed with LaTeX. Here you can search for packages, select them and then install them. VSCode will need to be restarted before LaTeX will find them. If you keep having problems, try selecting "Collections and schemes" and then searching for and installing `collection-latex`, `collection-latexrecommened` and `collection-latexextra`.
 
 ## Project structure
 All of the content files are found under sections. Each section (or part as LaTeX calls them) of the rulebook has a separate folder under this folder. Examples are introduction and character_creation. Within these sections each chapter has its own `.tex` file. It is within these files that the content of the pages lies. The only other important file is main.tex in the root directory. This file is responsible for collating all the sections and chapters. Within it you can see the links to the chapter `.tex` files. 
 
 ## LaTeX formatting
-You’ll often see `\label{this_is_my_label_name}` in the following examples. These labels allow you to reference within the text using `\ref{this_is_my_label_name}`. In most cases they are not necessary but adding them is a good idea for later. The wording of these labels can be anything, but for easy organization we use things like `sec:` and `fig:` to sort our labels.
+You’ll often see `\label{this_is_my_label_name}` in the following examples. These labels allow you to reference within the text using `\autoref{this_is_my_label_name}`. In most cases they are not necessary but adding them is a good idea for later on. The wording of these labels can be anything, but for easy organisation we use things like `sec:` and `fig:` to sort our labels.
 
 ### Creating a new book section (part)
-Use `/part{This is the part title}` within main.tex.
+Use `\part{This is the part title} \label{part:this_is_the_part_title}` within main.tex at the position you want the part to start.
 
 ### Creating a new chapter
 Within `main.tex` add a new block to link the chapter. This will look like:
@@ -42,7 +42,7 @@ Within `main.tex` add a new block to link the chapter. This will look like:
 \chapter{This is a chapter title} \label{ch:XX_this_is_a_chapter_title}
 \input{sections/part/this_is_the_file_path}
 ```
-Where `XX` is the chapter name abbreviated to two letters.
+Where `XX` is the part name abbreviated to two letters.
  
 Now just create a new .tex file at the right path, and it will appear in the final document.
 
@@ -75,7 +75,7 @@ Add a subsection as follows:
 ### Numbered List
 ```latex
 \begin{enumerate}
-    \item This is the first bullet point.
+    \item This is the first numbered item.
     \item Now the second.
     \item And the third.
 \end{enumerate}
@@ -98,7 +98,7 @@ Tables in latex are unfortunatly a bit awkward. Here’s a template though!
 
 ```latex
 \begin{center}
-    \begin{tabular}{|l|c c|} 
+    \begin{xltabular}{|l|X c|} 
       \hline
       First Column & Column Title 2 & Distance \\ 
       \hline
@@ -110,7 +110,7 @@ Tables in latex are unfortunatly a bit awkward. Here’s a template though!
 \end{center}
 ```
  
-The text in the curly brackets after `\begin{tabular}` set the tables vertical lines and horizontal text alignment. A `l` gives left-alignment, a `r` right and a `c` centered. If two columns are separated by a `|` then a vertical line is drawn. If two columns are separated by a space then no line separated the columns. To create horizontal lines on our table we must use `\hline` within the table. For each row we add a line that has each cells contents separated by `&` and then finished with a double slash `\\`. More is possible than this but it is a good starting point.
+The text in the curly brackets after `\begin{tabular}` set the tables vertical lines and horizontal text alignment. A `l` gives left-alignment, a `r` right and a `c` centered. If you want a multiline cell, use `X`. If two columns are separated by a `|` then a vertical line is drawn. If two columns are separated by a space then no line separated the columns. To create horizontal lines on our table we must use `\hline` within the table. For each row we add a line that has each cell's contents separated by `&` and then finished with a double slash `\\`. More is possible than this but it is a good starting point.
 
 ### Comments in LaTeX
 Comments in LaTeX are created using the `%` character as below:
