@@ -1,9 +1,10 @@
-\newcommand{\coverpage}[5]{
+\newcommand{\coverpage}[6]{
     % #1 - title
     % #2 - subtitle
     % #3 - author
-    % #4 - date
-    % #5 - subject
+    % #4 - author2
+    % #5 - date
+    % #6 - subject
     \pagestyle{empty}
     \newgeometry{left=0cm,top=0cm,right=0cm,bottom=0cm}
 
@@ -36,11 +37,11 @@
 
     %%%%%%%%%%%%%%%%%%%% Author Name %%%%%%%%%%%%%%%%%%%%
     \begin{pgfonlayer}{fg}
-    \drawtext{\Large\textsc{#3}\\\Large\textsc{#4}}{$(current page.east)+(-0.5,-5.2)$}{2cm}{0}{text=fg,anchor=east,align=right,font=\headingfontfamily};
+    \drawtext{\Large\textsc{#3}\\\Large\textsc{#4}\vspace{0.6em}\\\Large\textsc{#5}}{$(current page.east)+(-0.2,-5.1)$}{2cm}{0}{text=fg,anchor=east,align=right,font=\headingfontfamily};
     \end{pgfonlayer}
 
     %%%%%%%%%%%%%%%%%%%% Year %%%%%%%%%%%%%%%%%%%%
-    \drawhexagon{\Large #5}{$(current page.west)+(2.5,-5)$}{2.5 cm}{0}{accent!60,draw,text=fg,font=\headingfontfamily};
+    \drawhexagon{\Large #6}{$(current page.west)+(2.5,-5)$}{2.5 cm}{0}{accent!60,draw,text=fg,font=\headingfontfamily};
 
     \end{tikzpicture}
     \restoregeometry
