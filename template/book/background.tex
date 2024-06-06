@@ -21,16 +21,29 @@
   angle=0,
   position=current page.south west,
   vshift=0mm,
-  hshift=16mm, % Adjust the distance from the left edge of the page
+  hshift=0mm, % (originally 16mm) Adjust the distance from the left edge of the page
   contents={%
-    \tikz{
-      % \fill[bgacc] (0,0) rectangle (6mm,16mm); % bottom bar, 6mm wide, 16mm tall
-      \ifbackgroundbarvisible
-        \fill[bgacc] (0,\paperheight) rectangle (8mm,-\paperheight); % bar width 6mm
-      \fi
-      \ifbackgroundtitlevisible
-        \node[rotate=90, fgacc, font=\huge\bfseries\headingfontfamily, anchor=west] at (4mm, 16mm) {\currentparttitle};
-      \fi
-    }
+    \ifodd\value{page}  
+      \tikz{
+        \node at (-2\paperwidth, 0mm) {};
+        \node at (30mm, 0mm) {};
+        \ifbackgroundbarvisible
+          \fill[bgacc] (-4mm,\paperheight) rectangle (4mm,-\paperheight); % bar width 6mm
+        \fi
+        \ifbackgroundtitlevisible
+          \node[rotate=90, fgacc, font=\huge\bfseries\headingfontfamily, anchor=west] at (0mm, 16mm) {\currentparttitle}; %at 4mm, 16mm og
+        \fi
+      }
+    \else
+      \tikz{
+        \node at (-30mm, 0mm) {};
+        \ifbackgroundbarvisible
+          \fill[bgacc] (0,\paperheight) rectangle (8mm,-\paperheight); % bar width 6mm
+        \fi
+        \ifbackgroundtitlevisible
+          \node[rotate=90, fgacc, font=\huge\bfseries\headingfontfamily, anchor=west] at (4mm, 16mm) {\currentparttitle}; %at 4mm, 16mm og
+        \fi
+      }
+    \fi
   }
 }
