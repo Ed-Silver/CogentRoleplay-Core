@@ -3,19 +3,19 @@
 ## Installing LaTeX and setting up VSCode
 [Follow this guide](https://blog.jakelee.co.uk/getting-latex-working-in-vscode-on-windows/) to install LaTeX and set it up for VSCode. 
 > [!IMPORTANT] 
-> Install the full scheme or the medium scheme instead of LaTeX only, otherwise you’ll have issues with missing packages. It is possible to install these packages using TLShell TeX Live Manager but it’s much easier during inital installation.
+> Install the full scheme or the medium scheme instead of LaTeX only, otherwise you’ll have issues with missing packages. It is possible to install these packages using TLShell TeX Live Manager but it’s much easier during initial installation.
 
 ## Building the PDFs
 The PDF will build automatically upon saving, or alteratively you can click the green arrow next to the file ribbon:
 ![Green arrow on the ribbon](images/latex-instructions-img1.png)
 
-The PDF output can be found as `light.pdf` in the `./out` folder. This can be viewed directily inside VSCode after the LaTeX extension is installed.
+The PDF output can be found as `rulebook.pdf` in the `./out` folder. This can be viewed directily inside VSCode after the LaTeX extension is installed.
 
 ### Failed builds
-If the PDF does not build successfully (either you get an error or the build message stays showing at the bottom) there are steps to take to track the issue. By showing the terminal (view menu, tick terminal) and then selecting LaTeX compliler under the right hand drop down, you can see the pdf compile output. Generally if there’s an issue it will be seen at the very bottom of the output. Often it’s a syntax error or a missing package on your install. 
+If the PDF does not build successfully (either you get an error or the build message stays showing at the bottom) there are steps to take to track the issue. By showing the terminal (view menu, tick terminal) and then selecting LaTeX compiler under the right hand drop down, you can see the PDF compile output. Generally if there’s an issue it will be seen at the very bottom of the output. Often it’s a syntax error or a missing package on your install. 
 
 ### Stopping compilation
-To stop the compilation click of the TEX extension button and then click Terminate current compilation. You may have to double click. 
+To stop the compilation click of the TEX extension button and then click Terminate current compilation. You may have to double-click. 
 
 ![Location of the TeX sidebar](images/latex-instructions-img2.png)
 ![Terminate button](images/latex-instructions-img3.png)
@@ -94,7 +94,7 @@ To indent text we’ll use the following code:
 ```
 
 ### Tables in LaTeX
-Tables in latex are unfortunatly a bit awkward. Here’s a template though!
+Tables in latex are unfortunately a bit awkward. Here’s a template though!
 
 ```latex
 \begin{center}
@@ -110,7 +110,7 @@ Tables in latex are unfortunatly a bit awkward. Here’s a template though!
 \end{center}
 ```
  
-The text in the curly brackets after `\begin{tabular}` set the tables vertical lines and horizontal text alignment. A `l` gives left-alignment, a `r` right and a `c` centered. If you want a multiline cell, use `X`. If two columns are separated by a `|` then a vertical line is drawn. If two columns are separated by a space then no line separated the columns. To create horizontal lines on our table we must use `\hline` within the table. For each row we add a line that has each cell's contents separated by `&` and then finished with a double slash `\\`. More is possible than this but it is a good starting point.
+The text in the curly brackets after `\begin{tabular}` set the tables vertical lines and horizontal text alignment. A `l` gives left-alignment, a `r` right and a `c` centred. If you want a multiline cell, use `X`. If two columns are separated by a `|` then a vertical line is drawn. If two columns are separated by a space then no line separated the columns. To create horizontal lines on our table we must use `\hline` within the table. For each row we add a line that has each cell's contents separated by `&` and then finished with a double slash `\\`. More is possible than this but it is a good starting point.
 
 ### Comments in LaTeX
 Comments in LaTeX are created using the `%` character as below:
