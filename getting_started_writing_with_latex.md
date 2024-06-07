@@ -50,7 +50,7 @@ Now just create a new .tex file at the right path, and it will appear in the fin
 You can just type plain text into your chapter file and it will be added to the document. For bold text you must use `\textbf{This is my bold text}` rather than the double ** as in markdown. For italic text use `\textit{___}`.
 
 > [!IMPORTANT]
-> Do not use “&” alone in text. This will cause errors. Always type “\&”. The slash will not show in the final file. In order to get a new line you need to leave an empty line between the paragraphs. A single enter will not do it.
+> Do not use “&” alone in text. This will cause errors. Always type “\\&”. The slash will not show in the final file. In order to get a new line you need to leave an empty line between the paragraphs. A single enter will not do it.
 
 ### Sections within Chapters
 Adding a section is also very easy. Just use 
