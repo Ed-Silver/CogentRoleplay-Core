@@ -3,17 +3,18 @@
 <!-- ------------------------------------------------------------------------ -->
 The following chapter covers the basic rules that Players will need to play the game.  *Narrators* will have additional rules and tools in the *Running the Game* chapter.
 
+The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will intefere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  These rules are guidelines to help you tell the Story.
+
 <!-- ------------------------------------------------------------------------ -->
 ## Character Creation
 <!-- ------------------------------------------------------------------------ -->
 
 ### Character Sheet
+<!-- Put Character Sheet Here -->
 
+### Character Creation
 
-
-### Open Character Creation
-
-The Open Character Creation process is the most open method to create new Cogent Characters.  Other methods exist depending on the Story setting you are playing in.  An overview of the process is:
+The Character Creation process is the standard method to create new Cogent Characters.  There will be other Character Creation methods that will be introduced in specific Settings and Stories, but all methods are compatible with the standard method.  An overview of the process is:
 
 * **Character Identity:** Using a writer's tool, create your Character narratively.
 * **Attributes:** Assign your Attribute Points.
@@ -56,15 +57,11 @@ Write a short story about your Character, what they did prior to the events of t
 
 Within TTRPG games, an **Attribute** describes a Character's specific natural characteristic.  **Cogent Roleplay** uses four **Attributes**; 
 * **Strength (STR):** For interactions that manipulate the physical world.
-  * For every point in **STR** gain +1 Armour Point per Combat
 * **Relfex (RFL):** For interactions to move through the physical world.
-  * For every point in **RFL** gain +1 to Initiative per Combat
 * **Intelligence (INT):** For mental interactions.
-  * For every Point in **INT** gain +1 Vocation
 * **Charisma (CHA):** For social interactions.
-  * For every point in **CHA** gain +1 to min CP
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
 
 #### Vocations
 
@@ -73,9 +70,9 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 | **VP** | 0 | 0 | 1 | 1 | 2 | 2 |
 | **Max VP** | 0 | 1 | 2 | 3 | 4 | 4 |
 
-Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Classes.  They are the profession your Character has been trained in.  It is assumed that your Character knows all the essentials of your **Vocation** to the level they are currently trained to (Apprentice for 1 rank, Journeyman fo 2 ranks, Tradesmen for 3 ranks, and Master for 4 ranks).
+Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Classes in other TTRPGs.  They are the profession your Character has been trained in.  It is assumed that your Character knows all the essentials of your **Vocation** to the level they are currently trained to (Apprentice for 1 rank, Journeyman fo 2 ranks, Tradesmen for 3 ranks, and Master for 4 ranks).
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**, and a Character can only have 1 + **Intelligence** **Vocations** total *(min of 1 Vocation)*.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**.  
 Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, but the restriction for the maximum **VP** per **Vocation** remains.
 
 #### Skills
@@ -87,7 +84,6 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 
 Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
 
-<!-- TODO -->
 **Strength:**
 * **Athletics:** Changing the world with raw power.  This covers all types of physical activities a Character would expect to overcome (lifting, running, gripping, throwing, etc).
 * **Brawling:** Basic fighting skills.  This covers the most basic ability to punch and kick something.  Also used for intimidation.
@@ -99,19 +95,18 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 * **Stealth:** Sneaking.  This is the fine balance between not being detected, while moving towards an objective.
 
 **Intelligence:**
-* **XXXXX:** 
-* **XXXXX:** 
-* **XXXXX:** 
+* **Crafting:** Both the construction and understanding of mechanical devices.  This covers all activites to understand, repair, and replicate simple devices.  More complex devices require Specialisations to understand and manipulate.
+* **General Knowledge:** The ability to recall past experiences, and apply them to the current situation.  General Knowledge differes from Vocational Knowledge in that General Knowledge is less concerned on why something works, and more on how it worked.  As an example, an old woman would know that her acking bones meant it was about to rain (General Knowledge) while a meterologist would know that a drop in air pressure meant a storm front was coming (Vocational Knowledge).
+* **Reasoning:** The ability to take evidence, and turn it into knowledge.  This includes solving puzzles, deducing hidden meaning behind a saying, or seeing connections between two points of evidence.
 
 **Charisma:**
 * **Deception:** Lying.  This covers all manner of lies including telling lies, with holding the truth, and misdirection.
 * **Intuition:** Sense motives.  The ability to understand another Characters motivations and intentions.  Used to better help or hinder others.
 * **Persuasion:** Negotiations.  The ability to change another Character's point of view towards your point of view.  Also used in barter, and contract negotiations.
-<!-- TODO -->
 
 **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
 
 #### Equipment
 
@@ -122,7 +117,32 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 
 **Cogent Roleplay** uses **Commerce Points** as a method to track a Character's wealth.  **Commerce Points** are a combined measure of all salaries, inheritances, cash reserves, dept, and other non-tangible resources they can pull on.  
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Commerce Points (CP)**, but this can be modified with **Quirks of Wealth (Quirks)**.  Depending on your starting **Tier** Characters may have a maximum **Quirks**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Commerce Points (CP)**, but this can be modified with **Quirks of Wealth (Quirks)**.  Depending on your starting **Tier** Characters may have a maximum **Quirks**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
+
+##### Quirks of Wealth
+
+| **Quirk** | **Restriction** |
+| --- | --- |
+| Scrooge | You will not spend a cent on anyone except yourself. |
+| Patron | You are supported by a patron, and can not refuse their requests. |
+| Expensive Tastes | There is an aspect of your life where you will not accept anything but the best (Food, wine, lodging, etc). |
+| Philanthropist | You are extremely charitable to those in need (even at your detriment). |
+| Loan Shark | You owe money to a person or group that expects a full return on their investment (including interest).  No exceptions. |
+| Hidden Price | You got your wealth by offering a favour. |
+| Tight Pursed | You will always seek the cheapest option whenever possible. |
+| Blood Money | Your wealth comes from the many skeletons in your closet. |
+| Family Ties | Your money is controlled by the head of the family. |
+| Fame | You are a celebrity and your fame grants you gifts whereever you go, but at the cost of privacy. |
+| Debt | Your wealth is due to unpaid debt.  You must pay off the interest or risk losing your CP. |
+| Stolen | You gained your wealth by stealling it.  Someone will very much want it back. |
+| Elitist | You treat people with lower CP as inferior to you. |
+| Ladder Climber | You have clawed your way up in this world by sucking up to those with higher CP than you. |
+| Sugar Daddy/Momma | You use money as a means to show affection, buying love from those you find attractive. |
+| Monopoly | You have cornered the market in a niche business.  As long as you maintain your monopoly, you will maintain your CP. |
+| Unethical Business | Your wealth was earned on the blood, sweat, and tears of others.  Is that union talk I hear? |
+| Blackmail | Your wealth comes from hush money from a wealthy "benefactor". |
+| Risky Investor | You have a habit of investing in risky opportunities.  So far it has paid off for you. |
+| Employees | You have employees that work for you.  If you do not support their CP, you will lose your CP. |
 
 #### Finishing Touches
 
@@ -133,7 +153,7 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 
 **Cogent Roleplay** has a luck mechanic called **Destiny**.  **Destiny** is applied in two ways, first is the **Destiny Roll** *(covered later in Playing the Game)*, and the second is **Destiny Points**.  **Destiny Points** are used either before or after any **Dice Pool** roll, and directly affect the results of the roll.
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Destiny Points (Starting Destiny)**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions), up until the **Maximum Destiny (Max Destiny)**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Destiny Points (Starting Destiny)**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions), up until the **Maximum Destiny (Max Destiny)**.
 
 After your Character is done, share it with your Narrator and the other Players.  This gives the Group the ability to see your Character for the first time, and provide feedback.
 
@@ -143,10 +163,11 @@ After your Character is done, share it with your Narrator and the other Players.
 
 Every Character in a Story is expected to have a Narrative Arc.  Each Character is expected to learn and grow from their experiences, and eventually develop into the idealised version of themselves.  While the Story itself will cover each Character's Narrative Arc through gameplay, **Tier Progression** covers the mechanics of experience and growth.
 
-A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes).  Character can expect (but are not entitled to) the following reward per campaign part:
+A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes) *(see **[Story Structure](/Running%20the%20Game.md/#story-structure)**)*.  Character can expect (but are not entitled to) the following reward per campaign part:
+
 * **Scene:** Typically no reward
 * **Chapter:** Some Characters may receive **+1 Skill Point** for significant Character Growth.
-* **Story Arc:** Typically all Characters increase their **Tier** by one level.
+* **Story:** Typically all Characters increase their **Tier** by one level.
 * **Campaign:** Typically this is the end of the Story and their are no rewards.  However all Campaign Characters should become Legends within the Setting.
 
 There are six **Tiers** within **Cogent Roleplay**.  The Players and Narrator will agree on the **Tier** for the Story before **Character Creation**.  Most One-Shot Stories will be set at **Tier 2 - Adventurer**.
@@ -172,10 +193,10 @@ The following chart details the **Character Creation** resources the Player will
 | 3 | 3 | 1 | 16 | 3 | 3 | 4 | 2/4 |
 | 4 | 4 | 2 | 20 | 4 | 4 | 5 | 3/5 |
 | 5 | 5 | 2 | 24 | 4 | 4 | 6 | 5/5 |
-| +1 | +1 | +0.5 | +4 | * | * | +1 | * |
+<!-- | +1 | +1 | +0.5 | +4 | * | * | +1 | * |
 
-* The last row indicates when a Character moves up a **Tier**.  Only apply whole values (ie if you move from 1 to 1.5 your value is still 1).
-* Where there is a * value, apply the **Character Creation** value for the new **Tier** the Character has achieved (ie Tier 3 Max Skill = 3).
+* The last row indicates when a Character moves up a **Tier**.  Only apply whole values (ie if you move from 1 to 1.5 the game value used is 1, or rounded down).
+* Where there is a * value, apply the **Character Creation** value for the new **Tier** the Character has achieved (ie Tier 3 Max Skill = 3). -->
 
 <!-- ------------------------------------------------------------------------ -->
 ## Dice Pools
@@ -188,19 +209,30 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 The number of dice you roll for a given **Dice Pool** is a combination of the following factors:
 
 * **Base Dice:** 3D6 unless stated otherwise.
-* **Attribute:** Every *Core Skill*, *Vocation*, and *Vocational Skill* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
-* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Vocational Skill*'s *Vocation* to your **Dice Pool**
+* **Attribute:** Every *Core Skill*, *Vocation*, and *Specialisation* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
+* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Specialisation*'s *Vocation* to your **Dice Pool**
 * **Skill:** Add the number of D6 for either the *Core Skill* or *Specialisation* to your **Dice Pool**
 * **Modifiers:** There are several other factors that can add or remove D6 from your **Dice Pool**.  These include but are not limited to; Injuries, Equipment, Environmental Conditions, and/or other factors declared by the Narrator
 
 ### Narrator Declares the CL
 
-Cogent has an associated *Cheetsheet* that is available for Narrators and Players alike.  Within the *Cheetsheet* is the % chance of success for any given **Dice Pool** vs an associated *Challenge Level* (CL).  To calculate the CL, the Narrator will determine the average **Dice Pool** of a Character attempting the same dice roll, and the % chance of success they would have.  Find the corresponding CL and notify the Player.
+A *Challenge Level* (CL) is a representation of the difficulty of the a Dice Roll.  All Dice Rolls that are attempted succeed (regardless of the dice roll), however rolling poorly has consequences to future rolls and will raise the stakes in a Story.  Based on Dice Probability, the typical CLs you will see are:
+
+| **CL** | **Description** |
+| --- | --- |
+| 0 | Called an Open Roll.  This is a Dice Roll with no chance of consequences. |
+| 1 | Low Risk.  This is a Dice Roll with little chance of consequences. |
+| 2 | Lower Risk.  This is a Dice Roll with some chance of consequences. |
+| 3 | Standard Risk.  Most roles will have a 3CL rating.  This Dice Roll has an average risk of consequences. |
+| 4 | Higher Risk.  This is a Dice Roll with a higher chance of consequences. |
+| 5 | High Risk.  This is a Dice Roll with likely chance of consequences. |
+| 6 | Critical Risk.  Any CL greater than CL5 has an almost certan likelyhood of consequences. |
+
+The consequences from a Dice Roll will varry from Dice Roll to Dice Roll, but will be relevant to the Action being performed.  The Narrator may indicate possible consequences to the Player prior to a Dice Roll.
 
 ### Calculate Narrative Success or Failure
 
 If a Character has a **Dice Pool** that is greater than the CL, the Character is capable of completing the task at hand.  Making a dice roll determines how well they accomplish the task at hand.  This is determined by calculating *Wins* and *Losses*, and comparing them to the CL.
-
 
 * **Wins and Loses**
   When rolling a D6 if the results is a 4, 5, or 6, then it is considered a **Win**, otherwise it is considered a **Loss**.
@@ -210,11 +242,11 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
   If the **Dice Pool** has *Disadvantage*, then a roll of 5, or 6 is considered a **Win**.
 * **Narrative Success or Failure**
   Narrative Success is when the Character generates more Wins than the CL.  The Narrator should treat Narrative Successes as strokes of luck (the lock takes less time to pick, the sword found the gap in the armour, the bard is inspired by their muse, etc), with higher Narrative Success being greater strokes of luck.<br/>
-  Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but may or may not prevent them from accomplishing the task.
+  Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but will not prevent them from accomplishing the task.
 
 *Example*
 
-> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Vocational skill check.
+> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Specialisation check.
 >
 > * Erin's Player calculates Erin's **Dice Pool** as 5D6.  3D6 (Base) + 1D6 (Intelligence) + 1D6 (Mage Vocation) + 1D6 (Sorcery)
 > * The Narrator reminds Erin's Player about their *Wand of Power* and tells them to add +1D6 to their **Dice Pool** for a total of 6D6.  Further to this, the Narrator tells them that the goblins are completely unaware of Erin's presence and they have *Advantage* on their **Dice Pool**.
@@ -254,19 +286,20 @@ Any Character or Item that has a scale larger or smaller than the standard Playe
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Result Adjustment** | +15 | +11 | +8 | +5 | +3 | +1 | +0 | -1 | -3 | -5 | -8 | -11 | -15 |
 
-If two or more Characters have a scale modifier, adjust the scale modifiers for both Characters so that the smaller scale modifier is 0.
+If two or more Characters have a scale modifier, adjust the scale modifiers for both Characters so that the smaller scale modifier is 0.  Only the results of the Dice Roll are modified, and Narrative Successes can not be turned into Narrative Failures (and vice versa).
 
 *Example*
 
 > An Ogre (+1 Scale) is trying to smash a Pixie (-1 Scale).  
-> The Narrator adjusts the scale modifier for the Ogre to be +2 Scale, and the scale of the Pixie to be 0 Scale.
-> The Ogre rolls Narrative Success of 0 and adds the +2 Scale modifier to get a total of Narrative Success of 4 (Level 4 Injury before Armour).
+> The Narrator adjusts the scale modifier for the Ogre to be +2 Scale, and the scale of the Pixie to be 0 Scale (setting the smaller scale to 0).
+> The Ogre rolls Narrative Success of 0 and adds the +2 Scale modifier to get a total of Narrative Success of 2 (Level 2 Injury before Armour).
+> The Pixie rolls a Narrative Success of 1 and subtracts the +2 Scale modifier to get a total Narrative Success of 0 (Narrative Success can not be turned to Narrative Failure) and deals a Level 0 Injury before Armour.
 
 ## Destiny
 
 ### Destiny Points
 
-All Characters start with 3 Destiny Points at the beginning of every Story, and get 1 Destiny Point per Chapter (1-3 sessions) of the Story.  Destiny Points are the mechanism for Players to "Spend Luck" during any Dice Roll.  There are two times that Destiny Points may be used, either before or after a Dice Roll.
+All Characters start with a number Destiny Points at the beginning of every Story based on the Tier of play, and get 1 Destiny Point per Chapter (1-3 sessions) of the Story, to a maximum as defined by the Tier.  Destiny Points are the mechanism for Players to "Spend Luck" during any Dice Roll.  There are two times that Destiny Points may be used, either before or after a Dice Roll.
 
 **Before a Dice Roll**
 
@@ -297,11 +330,10 @@ All **Destiny Rolls** are done with 1D20.  The CL for the **Destiny Roll** is ba
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **CL** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
 
-The dice roll for the **Destiny Roll** must be equal or greater than the CL for the roll.
+The dice roll for the **Destiny Roll** must be equal or greater than the CL for the roll.  **Destiny Rolls** are mostly used by *Narrators* when the Actions of *NPCs* do not directly affect the *Players*.  This greatly speeds up gameplay and alows the story to move forward.
 
 *Example*
 
 > King John's men are traveling through Sherwood Forest with the latest taxes.  They know that Robin Hood and his Merry Men are planning to ambush the convoy, but King John's men have devised several new paths through the forest.<br/>
 > The Narrator states that there is roughly a 75% chance that King John's men will hit one of the Merry Men's ambush points, but instead of rolling multiple navigation and perception skill checks, the Narrator decides to do a **Destiny Roll** instead.<br/>
-> Since the Players are part of the Merry Men, the Narrator sets the CL at 16 (100% - 75% = 25%) and rolls 13 or a Narrative Failure of -3.  The convoy rolls right into the ambush, but their agitated state means they were not fully caught unaware.
-
+> Since the Players are part of the Merry Men, the Narrator sets the CL at 16 (100% - 75% = 25%) and rolls 13 (a close failure).  The convoy rolls right into the ambush, but their agitated state means they were not fully caught unaware.
