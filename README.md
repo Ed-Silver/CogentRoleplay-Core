@@ -1,7 +1,7 @@
 ![Cogent Roleplay](images/CogentRoleplayAttribution_Stacked.png)
 
 # Cogent Roleplay
-*Community Edition version 0.0.1* (ALPHA)
+*Community Edition version 2.0.0* (ALPHA)
 
 ## [The Cogent Community Charter](<Cogent Community Charter.md>)
 We are the Community.  All the contribute are welcome, all that they provide is treasured.  The Cogent Community Project (CoCoPro) is a collection of Cogent Roleplay players that banded together for the purpose of continuing the development and promotion of the Cogent Roleplay game.  We are eternally grateful to Shad and Jazza Brooks for the creation of this game we love, and we hope to continue its legacy.  The Cogent Community Project has adopted the Cogent Community Charter to establish the expectations of Community Members.  The general rules are:
